@@ -2,8 +2,8 @@
 
 1. pip install -r requirements.txt
 2. download the web driver suit with the Chrome version at https://chromedriver.chromium.org/downloads
-4. Download tesseract ocr at https://sourceforge.net/projects/tesseract-ocr-alt/files/
-5. run: python main.py
+3. Download tesseract ocr at https://sourceforge.net/projects/tesseract-ocr-alt/files/
+4. run: python main.py
 
 #  I made this project to practice my programming Python by crawling the scores from the Ministry of Education and Training. The logic is simple:
 First I use pytesseract to connect tesseract ( a pre-train AI framework that could parse text from images). Selenium and Webdriver to interact with the website and parse data,
