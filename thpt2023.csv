@@ -1,0 +1,340 @@
+ID,Score
+01000001,Toán:   8.40   Ngữ văn:   8.50   Lịch sử:   6.75   Địa lí:   6.00   GDCD:   9.00   KHXH: 7.25   Tiếng Anh:   9.20   
+01000002,Toán:   7.20   Ngữ văn:   8.50   Lịch sử:   8.75   Địa lí:   6.50   GDCD:   8.50   KHXH: 7.92   Tiếng Anh:   9.20   
+01000003,Ngữ văn:   6.50   Lịch sử:   9.25   Địa lí:   7.50   
+01000004,Toán:   7.80   Ngữ văn:   8.25   Lịch sử:   4.50   Địa lí:   6.25   GDCD:   8.25   KHXH: 6.33   Tiếng Anh:   7.80   
+01000005,Toán:   7.20   Ngữ văn:   8.00   Lịch sử:   4.75   Địa lí:   6.75   GDCD:   8.25   KHXH: 6.58   Tiếng Anh:   7.80   
+01000006,Toán:   7.60   Ngữ văn:   9.25   Lịch sử:   8.50   Địa lí:   7.25   GDCD:   9.75   KHXH: 8.5   Tiếng Anh:   9.00   
+01000007,Toán:   5.60   Ngữ văn:   7.00   Lịch sử:   4.75   Địa lí:   5.75   GDCD:   8.00   KHXH: 6.17   Tiếng Anh:   6.40   
+01000008,Toán:   7.20   Ngữ văn:   7.50   Vật lí:   5.00   Hóa học:   3.50   Sinh học:   1.75   KHTN: 3.42   Tiếng Anh:   6.00   
+01000009,Toán:   7.60   Ngữ văn:   8.25   Lịch sử:   6.50   Địa lí:   7.25   GDCD:   9.50   KHXH: 7.75   Tiếng Anh:   9.00   
+01000010,Toán:   8.20   Ngữ văn:   9.50   Lịch sử:   7.25   Địa lí:   6.50   GDCD:   8.75   KHXH: 7.5   Tiếng Anh:   7.00   
+01000011,Toán:   5.60   Ngữ văn:   7.00   Vật lí:   5.75   Hóa học:   3.50   Sinh học:   4.50   KHTN: 4.58   Tiếng Anh:   8.40   
+01000012,Toán:   7.20   Ngữ văn:   8.50   Lịch sử:   8.00   Địa lí:   7.75   GDCD:   8.25   KHXH: 8   Tiếng Anh:   8.40   
+01000013,Toán:   7.40   Ngữ văn:   5.75   Vật lí:   8.00   Hóa học:   3.75   Sinh học:   5.75   KHTN: 5.83   Tiếng Anh:   8.00   
+01000014,Toán:   7.00   Ngữ văn:   4.50   Lịch sử:   4.25   Địa lí:   6.50   GDCD:   8.25   KHXH: 6.33   
+01000015,Toán:   8.20   Ngữ văn:   8.50   Vật lí:   5.75   Hóa học:   7.50   Sinh học:   7.75   KHTN: 7   Tiếng Anh:   9.20   
+01000016,Toán:   8.20   Ngữ văn:   8.75   Lịch sử:   6.50   Địa lí:   6.25   GDCD:   9.50   KHXH: 7.42   Tiếng Anh:   8.40   
+01000017,Toán:   7.40   Ngữ văn:   7.75   Vật lí:   3.00   Hóa học:   6.50   Sinh học:   6.75   KHTN: 5.42   Tiếng Anh:   6.60   
+01000018,Ngữ văn:   7.00   Lịch sử:   7.50   Địa lí:   7.25   Tiếng Anh:   2.80   
+01000019,Toán:   8.40   Ngữ văn:   9.00   Lịch sử:   8.25   Địa lí:   7.25   GDCD:   8.50   KHXH: 8   Tiếng Anh:   9.40   
+01000020,Toán:   8.20   Ngữ văn:   8.75   Lịch sử:   8.75   Địa lí:   9.00   GDCD:   9.75   KHXH: 9.17   Tiếng Anh:   7.20   
+01000021,Toán:   8.20   Ngữ văn:   8.25   Lịch sử:   5.75   Địa lí:   6.50   GDCD:   8.25   KHXH: 6.83   Tiếng Anh:   7.80   
+01000022,Toán:   8.00   Ngữ văn:   9.25   Lịch sử:   6.50   Địa lí:   6.50   GDCD:   9.25   KHXH: 7.42   Tiếng Anh:   9.00   
+01000023,Toán:   8.60   Ngữ văn:   8.50   Lịch sử:   8.75   Địa lí:   7.50   GDCD:   8.75   KHXH: 8.33   Tiếng Anh:   9.80   
+01000024,Toán:   8.20   Ngữ văn:   9.00   Lịch sử:   8.75   Địa lí:   7.25   GDCD:   9.25   KHXH: 8.42   Tiếng Anh:   9.60   
+01000025,Toán:   6.60   Ngữ văn:   8.25   Lịch sử:   6.25   Địa lí:   6.50   GDCD:   8.25   KHXH: 7   Tiếng Anh:   8.00   
+01000026,Toán:   7.40   Ngữ văn:   9.00   Lịch sử:   5.25   Địa lí:   6.00   GDCD:   8.50   KHXH: 6.58   Tiếng Anh:   8.80   
+01000027,Toán:   8.00   Ngữ văn:   8.00   Vật lí:   5.00   Hóa học:   8.00   Sinh học:   8.00   KHTN: 7   Tiếng Anh:   9.20   
+01000028,Toán:   8.20   Ngữ văn:   9.00   Lịch sử:   6.25   Địa lí:   7.75   GDCD:   9.25   KHXH: 7.75   Tiếng Anh:   9.60   
+01000029,Toán:   2.80   Ngữ văn:   6.75   Lịch sử:   5.25   Địa lí:   5.75   
+01000030,Toán:   7.20   Ngữ văn:   8.75   Lịch sử:   8.00   Địa lí:   5.75   GDCD:   9.00   KHXH: 7.58   Tiếng Anh:   8.60   
+01000031,Toán:   5.00   Ngữ văn:   6.50   Vật lí:   5.50   Hóa học:   5.25   Sinh học:   4.75   KHTN: 5.17   Tiếng Nhật:   3.20   
+01000032,Toán:   8.20   Ngữ văn:   6.25   Vật lí:   8.25   Hóa học:   7.75   Sinh học:   6.25   KHTN: 7.42   Tiếng Anh:   5.40   
+01000033,Toán:   7.20   Ngữ văn:   8.00   Lịch sử:   5.00   Địa lí:   5.25   GDCD:   7.00   KHXH: 5.75   Tiếng Anh:   9.00   
+01000034,Toán:   7.60   Ngữ văn:   9.00   Lịch sử:   7.00   Địa lí:   6.50   GDCD:   8.50   KHXH: 7.33   Tiếng Anh:   6.60   
+01000035,Toán:   5.00   Ngữ văn:   3.50   Lịch sử:   4.50   Địa lí:   5.50   
+01000036,Toán:   7.80   Ngữ văn:   7.75   Vật lí:   6.25   Hóa học:   6.50   Sinh học:   6.50   KHTN: 6.42   Tiếng Anh:   5.00   
+01000037,Ngữ văn:   8.50   Lịch sử:   9.25   Địa lí:   9.25   
+01000038,Toán:   7.80   Ngữ văn:   8.00   Vật lí:   7.75   Hóa học:   7.25   Sinh học:   7.75   KHTN: 7.58   Tiếng Anh:   9.20   
+01000039,Toán:   5.80   Ngữ văn:   9.25   Lịch sử:   6.00   Địa lí:   7.00   GDCD:   9.25   KHXH: 7.42   
+01000040,Toán:   7.20   Ngữ văn:   8.00   Lịch sử:   5.25   Địa lí:   6.50   GDCD:   9.00   KHXH: 6.92   Tiếng Anh:   8.60   
+01000041,Toán:   8.60   Ngữ văn:   7.75   Vật lí:   6.00   Hóa học:   8.50   Sinh học:   8.75   KHTN: 7.75   Tiếng Anh:   9.40   
+01000042,Toán:   7.60   Ngữ văn:   9.50   Lịch sử:   6.75   Địa lí:   5.25   GDCD:   8.25   KHXH: 6.75   Tiếng Anh:   7.40   
+01000043,Toán:   7.00   Ngữ văn:   8.00   Lịch sử:   7.25   Địa lí:   5.25   GDCD:   8.25   KHXH: 6.92   Tiếng Anh:   7.60   
+01000044,Toán:   7.60   Ngữ văn:   6.50   Vật lí:   7.25   Hóa học:   8.50   Sinh học:   5.50   KHTN: 7.08   Tiếng Anh:   6.20   
+01000045,Toán:   3.80   Ngữ văn:   7.50   Lịch sử:   6.50   Địa lí:   5.50   GDCD:   8.25   KHXH: 6.75   Tiếng Anh:   4.20   
+01000046,Toán:   7.80   Ngữ văn:   4.00   Vật lí:   6.75   Hóa học:   7.50   Sinh học:   6.50   KHTN: 6.92   Tiếng Anh:   9.40   
+01000047,Toán:   8.60   Ngữ văn:   7.00   Vật lí:   7.75   Hóa học:   5.50   Sinh học:   4.00   KHTN: 5.75   Tiếng Anh:   8.60   
+01000048,Toán:   5.40   Ngữ văn:   8.00   Lịch sử:   4.00   Địa lí:   5.25   GDCD:   7.00   KHXH: 5.42   Tiếng Anh:   7.40   
+01000049,Toán:   7.80   Ngữ văn:   8.75   Lịch sử:   7.25   Địa lí:   5.50   GDCD:   9.00   KHXH: 7.25   Tiếng Anh:   8.00   
+01000050,Toán:   8.60   Ngữ văn:   8.50   Lịch sử:   6.75   Địa lí:   5.75   GDCD:   8.25   KHXH: 6.92   Tiếng Anh:   8.20   
+01000051,Toán:   8.60   Ngữ văn:   8.75   Lịch sử:   7.25   Địa lí:   6.50   GDCD:   8.75   KHXH: 7.5   Tiếng Anh:   9.40   
+01000052,Toán:   7.40   Ngữ văn:   9.00   Lịch sử:   6.75   Địa lí:   6.75   GDCD:   9.00   KHXH: 7.5   Tiếng Anh:   8.20   
+01000053,Toán:   8.20   Ngữ văn:   8.50   Lịch sử:   4.50   Địa lí:   6.50   GDCD:   9.75   KHXH: 6.92   Tiếng Anh:   8.80   
+01000054,Ngữ văn:   6.25   Lịch sử:   5.75   Địa lí:   6.25   
+01000055,Toán:   7.00   Ngữ văn:   8.25   Lịch sử:   8.00   Địa lí:   7.50   GDCD:   9.75   KHXH: 8.42   Tiếng Anh:   7.00   
+01000056,Toán:   6.00   Ngữ văn:   8.00   Lịch sử:   6.75   Địa lí:   5.25   GDCD:   8.25   KHXH: 6.75   Tiếng Anh:   7.40   
+01000057,Toán:   7.60   Ngữ văn:   9.25   Lịch sử:   6.25   Địa lí:   6.00   GDCD:   9.25   KHXH: 7.17   Tiếng Anh:   9.00   
+01000058,Toán:   7.80   Ngữ văn:   5.50   Vật lí:   6.75   Hóa học:   8.00   Sinh học:   4.75   KHTN: 6.5   Tiếng Anh:   7.40   
+01000059,Toán:   8.20   Ngữ văn:   8.00   Vật lí:   6.75   Hóa học:   5.50   Sinh học:   8.25   KHTN: 6.83   Tiếng Anh:   8.80   
+01000060,Toán:   6.00   Ngữ văn:   7.50   Lịch sử:   5.50   Địa lí:   5.50   GDCD:   6.50   KHXH: 5.83   Tiếng Anh:   8.00   
+01000061,Ngữ văn:   6.75   Lịch sử:   7.75   Địa lí:   7.25   
+01000062,Toán:   6.40   Ngữ văn:   4.00   Tiếng Anh:   5.40   
+01000063,Toán:   7.40   Ngữ văn:   7.75   Vật lí:   6.25   Hóa học:   5.00   Sinh học:   4.75   KHTN: 5.33   Tiếng Anh:   9.00   
+01000064,Toán:   7.80   Ngữ văn:   7.75   Lịch sử:   7.00   Địa lí:   5.00   GDCD:   7.75   KHXH: 6.58   Tiếng Anh:   9.20   
+01000065,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   7.00   Hóa học:   1.75   Sinh học:   3.50   KHTN: 4.08   Tiếng Anh:   8.80   
+01000066,Toán:   7.20   Ngữ văn:   6.50   Lịch sử:   3.50   Địa lí:   4.00   
+01000067,Toán:   8.00   Ngữ văn:   9.50   Lịch sử:   6.50   Địa lí:   6.25   GDCD:   7.75   KHXH: 6.83   Tiếng Anh:   8.80   
+01000068,Toán:   8.40   Ngữ văn:   9.00   Lịch sử:   8.25   Địa lí:   7.75   GDCD:  10.00   KHXH: 8.67   Tiếng Trung:   9.60   
+01000069,Toán:   7.60   Ngữ văn:   9.00   Lịch sử:   7.25   Địa lí:   6.75   GDCD:   9.50   KHXH: 7.83   Tiếng Anh:   9.60   
+01000070,Toán:   8.60   Ngữ văn:   8.50   Lịch sử:   5.25   Địa lí:   7.75   GDCD:   8.50   KHXH: 7.17   Tiếng Anh:   8.20   
+01000071,Toán:   8.20   Ngữ văn:   9.00   Lịch sử:   5.50   Địa lí:   6.25   GDCD:   9.00   KHXH: 6.92   Tiếng Hàn:   9.00   
+01000072,Toán:   7.00   Ngữ văn:   5.50   Vật lí:   7.25   Hóa học:   4.75   Sinh học:   6.50   KHTN: 6.17   Tiếng Anh:   9.80   
+01000073,Toán:   7.40   Ngữ văn:   7.75   Lịch sử:   6.00   Địa lí:   7.00   GDCD:   8.00   KHXH: 7   Tiếng Anh:   5.60   
+01000074,Toán:   8.00   Ngữ văn:   9.00   Lịch sử:   6.25   Địa lí:   5.75   GDCD:   7.75   KHXH: 6.58   Tiếng Anh:   8.00   
+01000075,Toán:   7.80   Ngữ văn:   8.50   Vật lí:   8.00   Hóa học:   5.25   Sinh học:   6.00   KHTN: 6.42   Tiếng Anh:   9.20   
+01000076,Toán:   8.20   Ngữ văn:   8.00   Vật lí:   7.00   Hóa học:   8.50   Sinh học:   8.25   KHTN: 7.92   Tiếng Anh:   8.60   
+01000077,Toán:   6.60   Ngữ văn:   7.75   Lịch sử:   5.75   Địa lí:   5.50   GDCD:   7.25   KHXH: 6.17   Tiếng Anh:   6.20   
+01000078,Toán:   3.40   Ngữ văn:   6.50   Lịch sử:   4.25   Địa lí:   6.25   
+01000079,Toán:   6.00   Ngữ văn:   8.75   Lịch sử:   8.00   Địa lí:   6.00   GDCD:   8.00   KHXH: 7.33   Tiếng Anh:   6.80   
+01000080,Toán:   7.60   Ngữ văn:   8.25   Vật lí:   7.75   Hóa học:   7.25   Sinh học:   7.75   KHTN: 7.58   Tiếng Anh:   8.40   
+01000081,Toán:   7.60   Ngữ văn:   8.75   Lịch sử:   7.25   Địa lí:   5.50   GDCD:   8.50   KHXH: 7.08   Tiếng Anh:   8.40   
+01000082,Toán:   9.20   Ngữ văn:   8.75   Vật lí:   7.75   Hóa học:   7.00   Sinh học:   8.00   KHTN: 7.58   Tiếng Anh:   9.20   
+01000083,Toán:   8.20   Ngữ văn:   9.00   Lịch sử:   7.75   Địa lí:   7.75   GDCD:   9.50   KHXH: 8.33   Tiếng Anh:   9.60   
+01000084,Toán:   7.60   Ngữ văn:   9.50   Lịch sử:   7.00   Địa lí:   6.50   GDCD:   8.50   KHXH: 7.33   Tiếng Anh:   8.00   
+01000085,Ngữ văn:   5.50   Lịch sử:   3.00   Địa lí:   6.00   
+01000086,Ngữ văn:   6.00   Lịch sử:   7.00   Địa lí:   6.25   
+01000087,Toán:   6.80   Ngữ văn:   6.25   Lịch sử:   4.25   Địa lí:   5.00   GDCD:   8.00   KHXH: 5.75   Tiếng Anh:   7.60   
+01000088,Toán:   6.20   Ngữ văn:   8.50   Tiếng Trung:   6.60   
+01000089,Toán:   8.20   Ngữ văn:   8.75   Lịch sử:   7.75   Địa lí:   7.00   GDCD:   9.50   KHXH: 8.08   Tiếng Anh:   9.40   
+01000090,Toán:   7.00   Ngữ văn:   8.50   Lịch sử:   4.75   Địa lí:   5.25   GDCD:   8.25   KHXH: 6.08   Tiếng Anh:   7.00   
+01000091,Toán:   6.60   Ngữ văn:   8.50   Lịch sử:   6.50   Địa lí:   4.25   GDCD:   9.00   KHXH: 6.58   Tiếng Anh:   8.40   
+01000092,Toán:   7.80   Ngữ văn:   8.50   Lịch sử:   5.25   Địa lí:   6.25   GDCD:   9.00   KHXH: 6.83   Tiếng Anh:   9.00   
+01000093,Toán:   2.40   Ngữ văn:   6.25   Lịch sử:   4.25   Địa lí:   4.50   
+01000094,Toán:   7.60   Ngữ văn:   9.00   Lịch sử:   7.25   Địa lí:   6.50   GDCD:   9.25   KHXH: 7.67   Tiếng Anh:   9.20   
+01000095,Toán:   8.20   Ngữ văn:   9.50   Lịch sử:   6.50   Địa lí:   7.00   GDCD:   9.00   KHXH: 7.5   Tiếng Anh:   8.60   
+01000096,Toán:   8.00   Ngữ văn:   9.25   Lịch sử:   6.00   Địa lí:   7.25   GDCD:   8.25   KHXH: 7.17   Tiếng Anh:   7.40   
+01000097,Toán:   8.40   Ngữ văn:   8.25   Lịch sử:   7.25   Địa lí:   8.00   GDCD:   9.25   KHXH: 8.17   Tiếng Anh:   9.60   
+01000098,Toán:   8.20   Ngữ văn:   9.25   Lịch sử:   7.50   Địa lí:   6.75   GDCD:   8.75   KHXH: 7.67   Tiếng Anh:   9.40   
+01000099,Toán:   8.60   Ngữ văn:   9.50   Lịch sử:   7.00   Địa lí:   8.00   GDCD:   9.25   KHXH: 8.08   Tiếng Anh:   9.20   
+01000100,Toán:   7.00   Ngữ văn:   9.25   Lịch sử:   7.00   Địa lí:   6.25   GDCD:   9.75   KHXH: 7.67   Tiếng Anh:   8.80   
+01000101,Toán:   6.60   Ngữ văn:   8.25   Lịch sử:   7.25   Địa lí:   6.75   GDCD:   9.75   KHXH: 7.92   Tiếng Anh:   8.00   
+01000102,Toán:   6.80   Ngữ văn:   9.00   Lịch sử:   4.25   Địa lí:   5.50   GDCD:   7.50   KHXH: 5.75   Tiếng Anh:   6.80   
+01000103,Toán:   8.00   Ngữ văn:   9.00   Lịch sử:   7.75   Địa lí:   6.75   GDCD:   8.50   KHXH: 7.67   Tiếng Anh:   9.00   
+01000104,Toán:   3.00   Ngữ văn:   3.25   Lịch sử:   4.50   Địa lí:   4.75   
+01000105,Toán:   7.60   Ngữ văn:   8.50   Lịch sử:   6.00   Địa lí:   5.75   GDCD:   9.50   KHXH: 7.08   Tiếng Anh:   6.60   
+01000106,Toán:   4.40   Ngữ văn:   6.50   Lịch sử:   6.75   Địa lí:   6.25   
+01000107,Toán:   6.80   Ngữ văn:   8.25   Lịch sử:   4.25   Địa lí:   6.75   GDCD:   7.75   KHXH: 6.25   Tiếng Anh:   6.60   
+01000108,Toán:   7.60   Ngữ văn:   8.50   Vật lí:   6.75   Hóa học:   8.25   Sinh học:   5.50   KHTN: 6.83   Tiếng Anh:   8.00   
+01000109,Toán:   6.60   Ngữ văn:   8.75   Lịch sử:   4.50   Địa lí:   6.00   GDCD:   9.25   KHXH: 6.58   Tiếng Anh:   5.80   
+01000110,Toán:   8.40   Vật lí:   7.50   Tiếng Anh:   8.00   
+01000111,Toán:   3.60   Ngữ văn:   4.50   Lịch sử:   4.50   Địa lí:   5.25   
+01000112,Toán:   7.40   Ngữ văn:   9.25   Lịch sử:   4.25   Địa lí:   6.00   GDCD:   7.50   KHXH: 5.92   Tiếng Anh:   7.20   
+01000113,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   7.50   Hóa học:   8.00   Sinh học:   6.25   KHTN: 7.25   Tiếng Anh:   6.80   
+01000114,Toán:   5.20   Ngữ văn:   8.75   Lịch sử:   8.25   Địa lí:   7.50   GDCD:   8.00   KHXH: 7.92   Tiếng Anh:   7.20   
+01000115,Toán:   6.60   Ngữ văn:   6.50   Lịch sử:   3.50   Địa lí:   5.00   GDCD:   7.75   KHXH: 5.42   Tiếng Anh:   7.00   
+01000116,Toán:   7.20   Ngữ văn:   7.25   Vật lí:   5.00   Hóa học:   7.00   Sinh học:   5.50   KHTN: 5.83   Tiếng Anh:   8.00   
+01000117,Toán:   3.40   Ngữ văn:   7.75   Lịch sử:   4.25   Địa lí:   3.75   
+01000118,Toán:   6.60   Ngữ văn:   8.50   Lịch sử:   5.75   Địa lí:   5.50   GDCD:   8.25   KHXH: 6.5   Tiếng Anh:   8.20   
+01000119,Toán:   6.80   Ngữ văn:   8.75   Lịch sử:   6.00   Địa lí:   5.00   GDCD:   8.00   KHXH: 6.33   Tiếng Anh:   8.40   
+01000120,Toán:   7.60   Ngữ văn:   9.50   Lịch sử:   6.25   Địa lí:   6.75   GDCD:   9.00   KHXH: 7.33   Tiếng Anh:   9.20   
+01000121,Toán:   7.40   Ngữ văn:   9.25   Lịch sử:   5.00   Địa lí:   5.25   GDCD:   8.75   KHXH: 6.33   Tiếng Anh:   7.80   
+01000122,Toán:   5.00   Ngữ văn:   7.00   Vật lí:   5.50   Hóa học:   3.50   Sinh học:   5.00   KHTN: 4.67   Tiếng Anh:   3.80   
+01000123,Toán:   7.80   Ngữ văn:   8.25   Vật lí:   4.50   Hóa học:   7.25   Sinh học:   6.00   KHTN: 5.92   Tiếng Anh:   8.00   
+01000124,Toán:   7.80   Ngữ văn:   6.25   Vật lí:   8.25   Hóa học:   4.75   Sinh học:   6.75   KHTN: 6.58   Tiếng Anh:   8.20   
+01000125,Toán:   6.60   Ngữ văn:   8.75   Lịch sử:   6.50   Địa lí:   7.50   GDCD:   8.00   KHXH: 7.33   Tiếng Anh:   9.40   
+01000126,Toán:   4.80   Ngữ văn:   6.25   Lịch sử:   5.75   Địa lí:   6.00   
+01000127,Toán:   8.20   Ngữ văn:   6.75   Vật lí:   7.75   Hóa học:   3.25   Sinh học:   6.25   KHTN: 5.75   Tiếng Anh:   7.60   
+01000128,Toán:   6.80   Ngữ văn:   7.50   Lịch sử:   4.50   Địa lí:   6.00   GDCD:   5.75   KHXH: 5.42   Tiếng Anh:   8.20   
+01000129,Toán:   7.80   Ngữ văn:   8.00   Vật lí:   6.75   Hóa học:   7.25   Sinh học:   8.00   KHTN: 7.33   Tiếng Anh:   9.00   
+01000130,Toán:   6.60   Ngữ văn:   8.75   Lịch sử:   6.50   Địa lí:   6.75   GDCD:   9.25   KHXH: 7.5   
+01000131,Toán:   8.40   Ngữ văn:   9.25   Lịch sử:   7.50   Địa lí:   6.75   GDCD:   8.25   KHXH: 7.5   Tiếng Anh:   8.80   
+01000132,Toán:   6.60   Ngữ văn:   8.00   Vật lí:   7.50   Hóa học:   5.50   Sinh học:   5.25   KHTN: 6.08   Tiếng Anh:   7.60   
+01000133,Toán:   8.80   Ngữ văn:   8.50   Lịch sử:   5.25   Địa lí:   6.75   GDCD:   8.75   KHXH: 6.92   Tiếng Anh:   8.20   
+01000134,Toán:   7.00   Ngữ văn:   7.50   Vật lí:   6.25   Hóa học:   7.25   Sinh học:   8.00   KHTN: 7.17   Tiếng Anh:   6.60   
+01000135,Toán:   8.00   Ngữ văn:   8.50   Lịch sử:   5.75   Địa lí:   6.25   GDCD:   8.50   KHXH: 6.83   Tiếng Anh:   9.20   
+01000136,Toán:   7.80   Ngữ văn:   8.50   Lịch sử:   4.25   Địa lí:   4.75   GDCD:   8.00   KHXH: 5.67   Tiếng Anh:   6.60   
+01000137,Toán:   7.80   Ngữ văn:   8.25   Lịch sử:   6.75   Địa lí:   7.00   GDCD:   8.50   KHXH: 7.42   Tiếng Anh:   8.00   
+01000138,Toán:   7.40   Ngữ văn:   8.25   Lịch sử:   5.00   Địa lí:   7.25   GDCD:   8.50   KHXH: 6.92   Tiếng Anh:   8.40   
+01000139,Toán:   8.20   Ngữ văn:   8.50   Lịch sử:   6.75   Địa lí:   5.00   GDCD:   9.25   KHXH: 7   Tiếng Anh:   8.00   
+01000140,Toán:   8.20   Ngữ văn:   7.00   Lịch sử:   5.75   Địa lí:   6.75   GDCD:   8.00   KHXH: 6.83   Tiếng Anh:   7.20   
+01000141,Toán:   8.40   Ngữ văn:   8.25   Vật lí:   8.00   Hóa học:   6.00   Sinh học:   5.75   KHTN: 6.58   Tiếng Anh:   8.80   
+01000142,Toán:   4.80   Ngữ văn:   5.00   Lịch sử:   4.25   Địa lí:   6.25   
+01000143,Toán:   8.00   Ngữ văn:   8.75   Lịch sử:   4.00   Địa lí:   5.00   GDCD:   8.50   KHXH: 5.83   Tiếng Anh:   9.00   
+01000144,Ngữ văn:   6.50   Lịch sử:   6.25   Địa lí:   5.00   
+01000145,Toán:   7.20   Ngữ văn:   8.00   Vật lí:   7.00   Hóa học:   3.75   Sinh học:   6.25   KHTN: 5.67   Tiếng Anh:   8.40   
+01000146,Toán:   4.00   Ngữ văn:   6.00   Lịch sử:   2.75   Địa lí:   4.75   
+01000147,Toán:   7.60   Ngữ văn:   8.50   Lịch sử:   7.00   Địa lí:   7.50   GDCD:   9.25   KHXH: 7.92   Tiếng Anh:   9.40   
+01000148,Toán:   8.20   Ngữ văn:   9.00   Lịch sử:   7.50   Địa lí:   7.75   GDCD:   9.50   KHXH: 8.25   Tiếng Anh:   9.20   
+01000149,Toán:   7.80   Ngữ văn:   8.75   Lịch sử:   4.25   Địa lí:   5.00   GDCD:   8.25   KHXH: 5.83   Tiếng Anh:   8.40   
+01000150,Toán:   8.00   Ngữ văn:   6.25   Vật lí:   8.75   Hóa học:   6.75   Sinh học:   8.25   KHTN: 7.92   Tiếng Anh:   9.20   
+01000151,Toán:   8.40   Ngữ văn:   9.25   Lịch sử:   7.50   Địa lí:   8.50   GDCD:  10.00   KHXH: 8.67   Tiếng Anh:   9.20   
+01000152,Toán:   8.40   Ngữ văn:   7.25   Vật lí:   7.50   Hóa học:   5.75   Sinh học:   5.25   KHTN: 6.17   Tiếng Anh:   9.00   
+01000153,Toán:   7.80   Ngữ văn:   9.00   Lịch sử:   6.75   Địa lí:   6.00   GDCD:   7.50   KHXH: 6.75   Tiếng Anh:   8.00   
+01000154,Toán:   7.60   Ngữ văn:   7.50   Vật lí:   8.00   Hóa học:   5.25   Sinh học:   3.75   KHTN: 5.67   Tiếng Anh:   9.00   
+01000155,Toán:   6.60   Ngữ văn:   8.00   Lịch sử:   6.75   Địa lí:   6.00   GDCD:   8.50   KHXH: 7.08   Tiếng Anh:   9.00   
+01000156,Toán:   8.00   Ngữ văn:   7.25   Vật lí:   6.50   Hóa học:   5.75   Sinh học:   6.25   KHTN: 6.17   Tiếng Anh:   7.80   
+01000157,Toán:   8.80   Ngữ văn:   6.75   Lịch sử:   6.00   Địa lí:   8.00   GDCD:   8.50   KHXH: 7.5   
+01000158,Toán:   4.40   Ngữ văn:   7.00   Lịch sử:   4.25   Địa lí:   4.75   GDCD:   7.25   KHXH: 5.42   Tiếng Anh:   3.20   
+01000159,Toán:   8.00   Ngữ văn:   8.00   Lịch sử:   7.75   Địa lí:   7.75   GDCD:   8.00   KHXH: 7.83   Tiếng Anh:   9.40   
+01000160,Toán:   7.80   Ngữ văn:   7.00   Vật lí:   9.00   Hóa học:   9.50   Sinh học:   6.50   KHTN: 8.33   Tiếng Anh:   8.00   
+01000161,Toán:   7.60   Ngữ văn:   9.25   Lịch sử:   7.25   Địa lí:   7.25   GDCD:   9.25   KHXH: 7.92   Tiếng Anh:   8.60   
+01000162,Toán:   7.40   Ngữ văn:   8.25   Lịch sử:   3.75   Địa lí:   4.50   GDCD:   8.00   KHXH: 5.42   Tiếng Anh:   7.60   
+01000163,Toán:   8.00   Ngữ văn:   9.50   Lịch sử:   7.75   Địa lí:   7.00   GDCD:   9.00   KHXH: 7.92   Tiếng Anh:   9.20   
+01000164,Toán:   8.40   Ngữ văn:   8.75   Lịch sử:   8.00   Địa lí:   7.00   GDCD:   9.25   KHXH: 8.08   Tiếng Anh:   9.60   
+01000165,Toán:   7.80   Ngữ văn:   9.25   Lịch sử:   7.75   Địa lí:   7.50   GDCD:   9.00   KHXH: 8.08   Tiếng Anh:   9.20   
+01000166,Toán:   4.20   Ngữ văn:   6.75   Lịch sử:   4.25   Địa lí:   6.00   GDCD:   7.25   KHXH: 5.83   Tiếng Anh:   6.40   
+01000167,Toán:   6.00   Ngữ văn:   8.25   Lịch sử:   5.25   Địa lí:   5.50   GDCD:   8.25   KHXH: 6.33   Tiếng Anh:   8.00   
+01000168,Toán:   8.60   Ngữ văn:   9.25   Lịch sử:   8.25   Địa lí:   7.25   GDCD:   9.25   KHXH: 8.25   Tiếng Anh:   9.60   
+01000169,Toán:   7.80   Ngữ văn:   8.00   Lịch sử:   4.00   Địa lí:   5.00   GDCD:   6.75   KHXH: 5.25   Tiếng Anh:   6.80   
+01000170,Toán:   7.40   Ngữ văn:   9.00   Lịch sử:   8.00   Địa lí:   6.50   GDCD:   9.75   KHXH: 8.08   Tiếng Anh:   6.40   
+01000171,Toán:   6.20   Ngữ văn:   8.50   Lịch sử:   6.50   Địa lí:   4.75   GDCD:   8.75   KHXH: 6.67   Tiếng Anh:   5.40   
+01000172,Toán:   8.60   Ngữ văn:   9.00   Lịch sử:   7.00   Địa lí:   6.25   GDCD:   8.00   KHXH: 7.08   Tiếng Anh:   9.40   
+01000173,Toán:   8.40   Ngữ văn:   6.25   Vật lí:   7.00   Hóa học:   8.25   Sinh học:   6.00   KHTN: 7.08   Tiếng Anh:   5.00   
+01000174,Toán:   7.20   Ngữ văn:   7.00   Lịch sử:   6.50   Địa lí:   6.75   GDCD:   8.75   KHXH: 7.33   Tiếng Anh:   6.00   
+01000175,Toán:   8.20   Ngữ văn:   8.25   Lịch sử:   7.50   Địa lí:   6.50   GDCD:   9.25   KHXH: 7.75   Tiếng Anh:   9.00   
+01000176,Toán:   6.40   Ngữ văn:   7.75   Lịch sử:   4.75   Địa lí:   5.75   GDCD:   8.00   KHXH: 6.17   Tiếng Anh:   6.00   
+01000177,Toán:   8.80   Ngữ văn:   8.75   Lịch sử:   6.00   Địa lí:   4.50   GDCD:   9.25   KHXH: 6.58   Tiếng Anh:   8.40   
+01000178,Toán:   8.00   Ngữ văn:   9.00   Lịch sử:   5.00   Địa lí:   6.25   GDCD:   8.00   KHXH: 6.42   Tiếng Anh:   9.20   
+01000179,Toán:   8.00   Ngữ văn:   7.75   Lịch sử:   5.50   Địa lí:   7.00   GDCD:   8.50   KHXH: 7   Tiếng Anh:   7.00   
+01000180,Toán:   8.20   Ngữ văn:   7.75   Lịch sử:   6.75   Địa lí:   7.00   GDCD:   8.75   KHXH: 7.5   Tiếng Anh:   9.00   
+01000181,Toán:   5.20   Ngữ văn:   7.50   Lịch sử:   7.00   Địa lí:   5.50   GDCD:   8.50   KHXH: 7   Tiếng Anh:   9.40   
+01000182,Toán:   9.00   Ngữ văn:   8.75   Vật lí:   8.75   Hóa học:   6.50   Sinh học:   7.00   KHTN: 7.42   Tiếng Anh:   9.20   
+01000183,Toán:   5.60   Ngữ văn:   6.00   Lịch sử:   6.00   Địa lí:   4.00   
+01000184,Toán:   7.80   Ngữ văn:   8.00   Lịch sử:   6.75   Địa lí:   6.50   GDCD:   8.50   KHXH: 7.25   Tiếng Anh:   8.00   
+01000185,Toán:   8.80   Ngữ văn:   8.75   Vật lí:   6.00   Hóa học:   6.75   Sinh học:   7.50   KHTN: 6.75   
+01000186,Toán:   8.60   Ngữ văn:   8.75   Vật lí:   7.25   Hóa học:   7.25   Sinh học:   6.00   KHTN: 6.83   Tiếng Anh:   8.60   
+01000187,Toán:   7.20   Ngữ văn:   5.00   Vật lí:   5.25   Hóa học:   2.50   Sinh học:   5.50   KHTN: 4.42   Tiếng Anh:   5.60   
+01000188,Toán:   8.20   Ngữ văn:   6.50   Vật lí:   8.25   Hóa học:   6.75   Sinh học:   4.50   KHTN: 6.5   Tiếng Anh:   7.00   
+01000189,Toán:   8.60   Ngữ văn:   8.75   Lịch sử:   5.25   Địa lí:   5.25   GDCD:   9.25   KHXH: 6.58   Tiếng Anh:   8.60   
+01000190,Toán:   7.40   Ngữ văn:   8.25   Lịch sử:   5.50   Địa lí:   5.25   GDCD:   8.00   KHXH: 6.25   Tiếng Anh:   5.20   
+01000191,Toán:   8.20   Ngữ văn:   6.25   Lịch sử:   9.00   Địa lí:   8.25   GDCD:   9.00   KHXH: 8.75   Tiếng Anh:   8.60   
+01000192,Toán:   7.60   Ngữ văn:   6.75   Vật lí:   8.25   Hóa học:   4.50   Sinh học:   6.75   KHTN: 6.5   Tiếng Anh:   7.60   
+01000193,Toán:   4.60   Ngữ văn:   7.75   Lịch sử:   7.00   Địa lí:   6.00   GDCD:   8.75   KHXH: 7.25   
+01000194,Toán:   6.40   Ngữ văn:   7.75   Lịch sử:   4.75   Địa lí:   4.75   GDCD:   7.25   KHXH: 5.58   Tiếng Anh:   3.80   
+01000195,Toán:   6.20   Ngữ văn:   8.50   Lịch sử:   7.00   Địa lí:   6.50   GDCD:   9.50   KHXH: 7.67   Tiếng Anh:   5.60   
+01000196,Toán:   8.00   Ngữ văn:   8.75   Lịch sử:   7.25   Địa lí:   8.50   GDCD:   9.25   KHXH: 8.33   Tiếng Nhật:   9.40   
+01000197,Toán:   7.60   Ngữ văn:   8.25   Vật lí:   6.25   Hóa học:   5.25   Sinh học:   6.00   KHTN: 5.83   Tiếng Anh:   9.20   
+01000198,Toán:   8.80   Ngữ văn:   7.00   Vật lí:   8.75   Hóa học:   6.00   Sinh học:   4.50   KHTN: 6.42   Tiếng Anh:   9.20   
+01000199,Toán:   8.20   Ngữ văn:   9.00   Tiếng Anh:   7.80   
+01000200,Toán:   8.60   Ngữ văn:   8.75   Lịch sử:   8.00   Địa lí:   6.75   GDCD:   9.25   KHXH: 8   Tiếng Anh:   9.60   
+01000201,Toán:   7.60   Ngữ văn:   8.25   Vật lí:   8.75   Hóa học:   5.00   Sinh học:   5.25   KHTN: 6.33   Tiếng Anh:   8.00   
+01000202,Toán:   2.40   Ngữ văn:   6.50   Lịch sử:   6.00   Địa lí:   5.75   GDCD:   7.50   KHXH: 6.42   Tiếng Anh:   4.00   
+01000203,Toán:   7.80   Ngữ văn:   8.75   Lịch sử:   7.75   Địa lí:   7.75   GDCD:   9.75   KHXH: 8.42   Tiếng Anh:   8.80   
+01000204,Toán:   7.40   Ngữ văn:   7.50   Vật lí:   2.25   Hóa học:   7.50   Sinh học:   4.75   KHTN: 4.83   Tiếng Anh:   6.80   
+01000205,Toán:   6.80   Ngữ văn:   8.00   Lịch sử:   7.75   Địa lí:   5.75   GDCD:   9.25   KHXH: 7.58   Tiếng Anh:   8.80   
+01000206,Toán:   8.00   Ngữ văn:   8.75   Lịch sử:   5.75   Địa lí:   4.75   GDCD:   8.25   KHXH: 6.25   Tiếng Anh:   8.60   
+01000207,Toán:   7.80   Ngữ văn:   6.50   Vật lí:   7.50   Hóa học:   6.00   Sinh học:   6.25   KHTN: 6.58   Tiếng Anh:   5.40   
+01000208,Toán:   8.20   Ngữ văn:   8.75   Vật lí:   8.75   Hóa học:   5.75   Sinh học:   5.50   KHTN: 6.67   Tiếng Anh:   7.60   
+01000209,Toán:   7.80   Ngữ văn:   9.25   Lịch sử:   8.50   Địa lí:   6.25   GDCD:   8.75   KHXH: 7.83   Tiếng Anh:   9.60   
+01000210,Toán:   4.40   Ngữ văn:   6.50   Lịch sử:   6.25   Địa lí:   6.50   
+01000211,Toán:   6.60   Ngữ văn:   8.75   Tiếng Anh:   7.60   
+01000212,Toán:   8.00   Ngữ văn:   8.50   Lịch sử:   6.00   Địa lí:   7.00   GDCD:   8.25   KHXH: 7.08   Tiếng Anh:   7.40   
+01000213,Toán:   7.60   Ngữ văn:   9.00   Lịch sử:   8.75   Địa lí:   5.00   GDCD:   8.50   KHXH: 7.42   Tiếng Anh:   8.40   
+01000214,Toán:   8.60   Ngữ văn:   8.75   Lịch sử:   8.50   Địa lí:   7.00   GDCD:   9.25   KHXH: 8.25   Tiếng Anh:   8.80   
+01000215,Toán:   8.00   Ngữ văn:   9.25   Lịch sử:   7.00   Địa lí:   6.25   GDCD:   8.25   KHXH: 7.17   Tiếng Anh:   8.00   
+01000216,Toán:   4.60   Ngữ văn:   8.00   Lịch sử:   5.00   Địa lí:   4.00   GDCD:   7.75   KHXH: 5.58   Tiếng Anh:   6.00   
+01000217,Toán:   7.40   Ngữ văn:   8.75   Lịch sử:   3.25   Địa lí:   4.25   GDCD:   6.50   KHXH: 4.67   Tiếng Anh:   7.00   
+01000218,Toán:   6.20   Ngữ văn:   7.50   Lịch sử:   4.25   Địa lí:   4.50   GDCD:   7.75   KHXH: 5.5   Tiếng Anh:   6.00   
+01000219,Toán:   8.80   Ngữ văn:   7.75   Vật lí:   7.75   Hóa học:   7.00   Sinh học:   7.00   KHTN: 7.25   Tiếng Anh:   8.40   
+01000220,Toán:   7.20   Ngữ văn:   9.50   Lịch sử:   5.50   Địa lí:   6.00   GDCD:   9.00   KHXH: 6.83   Tiếng Anh:   9.20   
+01000221,Toán:   7.40   Ngữ văn:   8.00   Lịch sử:   5.50   Địa lí:   6.25   GDCD:   8.25   KHXH: 6.67   Tiếng Anh:   9.00   
+01000222,Toán:   6.40   Ngữ văn:   8.00   Lịch sử:   5.75   Địa lí:   6.25   GDCD:   8.00   KHXH: 6.67   Tiếng Anh:   7.60   
+01000223,Toán:   8.60   Ngữ văn:   8.75   Lịch sử:   5.50   Địa lí:   5.50   GDCD:   7.75   KHXH: 6.25   Tiếng Anh:   8.20   
+01000224,Toán:   7.60   Ngữ văn:   9.25   Lịch sử:   7.50   Địa lí:   7.50   GDCD:   9.50   KHXH: 8.17   Tiếng Anh:   9.20   
+01000225,Toán:   7.20   Ngữ văn:   8.00   Lịch sử:   5.50   Địa lí:   7.00   GDCD:   8.00   KHXH: 6.83   Tiếng Anh:   6.00   
+01000226,Toán:   7.40   Ngữ văn:   8.75   Lịch sử:   5.75   Địa lí:   5.75   GDCD:   7.75   KHXH: 6.42   Tiếng Anh:   8.20   
+01000227,Toán:   5.00   Ngữ văn:   8.50   Lịch sử:   7.00   Địa lí:   6.50   GDCD:   9.75   KHXH: 7.75   Tiếng Anh:   8.80   
+01000228,Toán:   8.00   Ngữ văn:   6.00   Vật lí:   6.75   Hóa học:   7.00   Sinh học:   5.25   KHTN: 6.33   Tiếng Anh:   6.00   
+01000229,Toán:   8.00   Ngữ văn:   8.50   Lịch sử:   3.50   Địa lí:   7.00   GDCD:   8.75   KHXH: 6.42   Tiếng Anh:   8.40   
+01000230,Toán:   8.80   Ngữ văn:   9.25   Lịch sử:   7.00   Địa lí:   8.75   GDCD:   9.25   KHXH: 8.33   Tiếng Anh:   8.80   
+01000231,Toán:   7.00   Ngữ văn:   8.50   Lịch sử:   7.75   Địa lí:   6.75   GDCD:   8.75   KHXH: 7.75   Tiếng Anh:   7.60   
+01000232,Toán:   7.80   Ngữ văn:   7.75   Vật lí:   8.25   Hóa học:   6.00   Sinh học:   5.50   KHTN: 6.58   Tiếng Anh:   9.20   
+01000233,Toán:   8.60   Ngữ văn:   9.25   Lịch sử:   5.75   Địa lí:   6.25   GDCD:   7.75   KHXH: 6.58   Tiếng Anh:   8.80   
+01000234,Toán:   7.80   Ngữ văn:   9.50   Lịch sử:   5.50   Địa lí:   7.00   GDCD:   7.50   KHXH: 6.67   Tiếng Anh:   9.20   
+01000235,Toán:   8.40   Ngữ văn:   7.50   Vật lí:   7.50   Hóa học:   7.00   Sinh học:   6.50   KHTN: 7   Tiếng Anh:   7.80   
+01000236,Toán:   7.80   Ngữ văn:   8.50   Lịch sử:   6.25   Địa lí:   5.50   GDCD:   8.00   KHXH: 6.58   Tiếng Anh:   8.60   
+01000237,Toán:   5.40   Ngữ văn:   7.00   Lịch sử:   4.00   Địa lí:   5.50   GDCD:   8.50   KHXH: 6   Tiếng Anh:   6.80   
+01000238,Toán:   4.80   Ngữ văn:   8.00   Lịch sử:   6.25   Địa lí:   6.50   Tiếng Anh:   4.80   
+01000239,Toán:   7.80   Ngữ văn:   8.50   Lịch sử:   4.25   Địa lí:   6.00   GDCD:   8.25   KHXH: 6.17   Tiếng Anh:   5.40   
+01000240,Toán:   7.80   Ngữ văn:   9.00   Lịch sử:   4.00   Địa lí:   5.25   GDCD:   6.50   KHXH: 5.25   Tiếng Anh:   9.20   
+01000241,Toán:   4.00   Ngữ văn:   8.00   Lịch sử:   6.25   Địa lí:   5.75   GDCD:   9.00   KHXH: 7   Tiếng Anh:   7.80   
+01000242,Toán:   6.40   Ngữ văn:   7.75   Vật lí:   6.25   Hóa học:   7.25   Sinh học:   6.75   KHTN: 6.75   Tiếng Anh:   6.00   
+01000243,Toán:   5.00   Ngữ văn:   7.75   Lịch sử:   7.00   Địa lí:   5.00   GDCD:   8.75   KHXH: 6.92   Tiếng Anh:   6.80   
+01000244,Toán:   6.20   Ngữ văn:   7.00   Lịch sử:   8.25   Địa lí:   7.50   GDCD:   8.75   KHXH: 8.17   Tiếng Anh:   8.20   
+01000245,Toán:   6.20   Ngữ văn:   8.50   Lịch sử:   9.25   Địa lí:   6.75   Tiếng Anh:   7.40   
+01000246,Toán:   7.60   Ngữ văn:   9.25   Lịch sử:   7.75   Địa lí:   7.75   GDCD:   9.75   KHXH: 8.42   Tiếng Anh:   9.40   
+01000247,Toán:   7.80   Ngữ văn:   8.25   Lịch sử:   5.00   Địa lí:   7.00   GDCD:   9.00   KHXH: 7   Tiếng Anh:   8.00   
+01000248,Toán:   8.40   Ngữ văn:   8.50   Vật lí:   5.00   Hóa học:   8.75   Sinh học:   6.00   KHTN: 6.58   Tiếng Anh:   8.80   
+01000249,Toán:   8.60   Ngữ văn:   9.25   Lịch sử:   6.75   Địa lí:   5.50   GDCD:   7.25   KHXH: 6.5   Tiếng Anh:   8.80   
+01000250,Toán:   8.80   Ngữ văn:   9.00   Lịch sử:   5.75   Địa lí:   5.50   GDCD:   9.25   KHXH: 6.83   Tiếng Anh:   7.80   
+01000251,Toán:   5.60   Ngữ văn:   8.75   Tiếng Anh:   7.00   
+01000252,Toán:   7.00   Ngữ văn:   8.25   Tiếng Anh:   8.60   
+01000253,Toán:   7.60   Ngữ văn:   8.25   Vật lí:   3.75   Hóa học:   8.00   Sinh học:   4.50   KHTN: 5.42   Tiếng Anh:   8.60   
+01000254,Toán:   8.80   Ngữ văn:   8.25   Vật lí:   6.75   Hóa học:   6.25   Sinh học:   5.25   KHTN: 6.08   Tiếng Anh:   6.40   
+01000255,Toán:   7.40   Ngữ văn:   8.75   Lịch sử:   8.00   Địa lí:   6.50   GDCD:   9.00   KHXH: 7.83   Tiếng Anh:   9.40   
+01000256,Toán:   7.40   Ngữ văn:   6.75   Vật lí:   6.75   Hóa học:   4.00   Sinh học:   3.75   KHTN: 4.83   Tiếng Anh:   8.80   
+01000257,Toán:   3.80   Ngữ văn:   5.50   Lịch sử:   4.50   Địa lí:   4.50   
+01000258,Toán:   8.60   Ngữ văn:   6.75   Vật lí:   5.25   Hóa học:   8.50   Sinh học:   8.00   KHTN: 7.25   Tiếng Anh:   8.40   
+01000259,Toán:   7.20   Ngữ văn:   8.25   Vật lí:   5.75   Hóa học:   8.25   Sinh học:   6.50   KHTN: 6.83   Tiếng Anh:   8.00   
+01000260,Toán:   5.80   Ngữ văn:   8.50   Lịch sử:   5.25   Địa lí:   5.00   GDCD:   7.00   KHXH: 5.75   Tiếng Anh:   7.00   
+01000261,Toán:   7.20   Ngữ văn:   8.75   Lịch sử:   7.25   Địa lí:   6.00   GDCD:   8.25   KHXH: 7.17   Tiếng Anh:   9.00   
+01000262,Toán:   7.00   Ngữ văn:   6.50   Lịch sử:   5.00   Địa lí:   6.50   GDCD:   9.25   KHXH: 6.92   Tiếng Anh:   3.80   
+01000263,Toán:   6.20   Ngữ văn:   9.25   Lịch sử:   7.75   Địa lí:   6.75   GDCD:   9.50   KHXH: 8   Tiếng Anh:   8.00   
+01000264,Toán:   7.80   Ngữ văn:   9.00   Lịch sử:   7.50   Địa lí:   5.25   GDCD:   8.25   KHXH: 7   Tiếng Anh:   7.80   
+01000265,Toán:   8.00   Ngữ văn:   8.50   Vật lí:   6.50   Hóa học:   7.75   Sinh học:   6.75   KHTN: 7   Tiếng Anh:   9.00   
+01000266,Toán:   6.60   Ngữ văn:   8.25   Lịch sử:   6.75   Địa lí:   7.50   GDCD:   9.25   KHXH: 7.83   Tiếng Nhật:   4.20   
+01000267,Toán:   7.20   Ngữ văn:   7.25   Lịch sử:   5.75   Địa lí:   6.50   GDCD:   7.75   KHXH: 6.67   Tiếng Anh:   3.80   
+01000268,Ngữ văn:   7.25   Lịch sử:   6.50   Địa lí:   6.25   
+01000269,Toán:   4.40   Ngữ văn:   7.50   Lịch sử:   3.50   Địa lí:   5.75   
+01000270,Ngữ văn:   9.00   Lịch sử:   9.00   Địa lí:   6.50   GDCD:   7.00   KHXH: 7.5   Tiếng Anh:   6.40   
+01000271,Toán:   4.80   Ngữ văn:   8.00   Lịch sử:   5.25   Địa lí:   6.25   GDCD:   9.50   KHXH: 7   Tiếng Anh:   5.40   
+01000272,Toán:   4.00   Ngữ văn:   7.25   Lịch sử:   8.00   Địa lí:   7.50   GDCD:   9.75   KHXH: 8.42   Tiếng Anh:   3.20   
+01000273,Toán:   6.40   Ngữ văn:   8.00   Lịch sử:   6.50   Địa lí:   6.25   GDCD:   8.75   KHXH: 7.17   Tiếng Anh:   8.20   
+01000274,Toán:   8.00   Ngữ văn:   9.00   Lịch sử:   6.50   Địa lí:   6.00   GDCD:   9.25   KHXH: 7.25   Tiếng Anh:   9.20   
+01000275,Toán:   7.80   Ngữ văn:   8.25   Lịch sử:   5.50   Địa lí:   7.50   GDCD:   7.50   KHXH: 6.83   Tiếng Anh:   8.00   
+01000276,Toán:   7.80   Ngữ văn:   7.25   Vật lí:   4.00   Hóa học:   7.50   Sinh học:   8.50   KHTN: 6.67   
+01000277,Toán:   7.40   Ngữ văn:   6.00   Vật lí:   5.00   Hóa học:   7.25   Sinh học:   5.50   KHTN: 5.92   Tiếng Anh:   8.00   
+01000278,Toán:   7.40   Ngữ văn:   9.25   Lịch sử:   7.00   Địa lí:   7.25   GDCD:   9.00   KHXH: 7.75   Tiếng Anh:   8.80   
+01000279,Toán:   8.60   Ngữ văn:   9.50   Lịch sử:   5.25   Địa lí:   5.00   GDCD:   8.50   KHXH: 6.25   Tiếng Anh:   9.40   
+01000280,Toán:   7.40   Ngữ văn:   7.25   Lịch sử:   6.75   Địa lí:   5.50   GDCD:   9.25   KHXH: 7.17   Tiếng Anh:   8.80   
+01000281,Toán:   5.60   Ngữ văn:   7.00   Lịch sử:   7.00   Địa lí:   7.25   
+01000282,Toán:   6.20   Ngữ văn:   8.25   Lịch sử:   5.00   Địa lí:   6.75   GDCD:   7.50   KHXH: 6.42   Tiếng Anh:   8.60   
+01000283,Ngữ văn:   8.00   Lịch sử:   9.25   Địa lí:   8.25   
+01000284,Toán:   6.80   Ngữ văn:   8.50   Lịch sử:   4.75   Địa lí:   5.50   GDCD:   6.75   KHXH: 5.67   Tiếng Anh:   7.80   
+01000285,Ngữ văn:   8.25   Lịch sử:   9.00   Địa lí:   8.50   
+01000286,Toán:   6.60   Ngữ văn:   8.50   Lịch sử:   7.00   Địa lí:   6.75   GDCD:   8.50   KHXH: 7.42   Tiếng Anh:   8.40   
+01000287,Toán:   8.20   Ngữ văn:   8.00   Lịch sử:   6.75   Địa lí:   5.75   GDCD:   8.25   KHXH: 6.92   Tiếng Anh:   9.20   
+01000288,Toán:   8.80   Ngữ văn:   7.50   Vật lí:   8.75   Hóa học:   8.00   Sinh học:   6.25   KHTN: 7.67   Tiếng Anh:   8.20   
+01000289,Toán:   8.80   Ngữ văn:   6.50   Vật lí:   8.75   Hóa học:   5.00   Sinh học:   5.25   KHTN: 6.33   Tiếng Anh:   8.40   
+01000290,Toán:   7.60   Ngữ văn:   6.25   Vật lí:   8.75   Hóa học:   3.50   Sinh học:   7.00   KHTN: 6.42   Tiếng Anh:   9.60   
+01000291,Toán:   7.60   Ngữ văn:   8.50   Lịch sử:   8.75   Địa lí:   6.75   GDCD:   9.50   KHXH: 8.33   Tiếng Anh:   9.20   
+01000292,Toán:   6.20   Ngữ văn:   5.75   Lịch sử:   6.00   Địa lí:   5.00   GDCD:   6.75   KHXH: 5.92   Tiếng Anh:   4.00   
+01000293,Toán:   5.00   Ngữ văn:   6.75   Tiếng Anh:   5.40   
+01000294,Toán:   7.20   Ngữ văn:   8.25   Lịch sử:   6.25   Địa lí:   7.75   GDCD:   7.75   KHXH: 7.25   Tiếng Anh:   8.80   
+01000295,Toán:   8.40   Ngữ văn:   7.25   Vật lí:   8.50   Hóa học:   6.00   Sinh học:   6.00   KHTN: 6.83   Tiếng Anh:   9.00   
+01000296,Toán:   8.40   Ngữ văn:   8.75   Lịch sử:   9.00   Địa lí:   5.75   GDCD:  10.00   KHXH: 8.25   Tiếng Anh:   9.40   
+01000297,Toán:   6.60   Ngữ văn:   8.00   Lịch sử:   6.00   Địa lí:   6.75   GDCD:   7.75   KHXH: 6.83   
+01000298,Toán:   7.60   Ngữ văn:   8.00   Lịch sử:   5.75   Địa lí:   6.00   GDCD:  10.00   KHXH: 7.25   Tiếng Anh:   6.60   
+01000299,Toán:   6.80   Ngữ văn:   7.75   Lịch sử:   6.00   Địa lí:   6.25   GDCD:   8.75   KHXH: 7   Tiếng Anh:   8.60   
+01000300,Toán:   8.40   Ngữ văn:   9.00   Lịch sử:   4.75   Địa lí:   4.75   GDCD:   8.00   KHXH: 5.83   Tiếng Anh:   8.40   
+01000301,Toán:   8.60   Ngữ văn:   7.50   Vật lí:   8.50   Hóa học:   4.50   Sinh học:   3.50   KHTN: 5.5   Tiếng Anh:   8.60   
+01000302,Toán:   8.60   Ngữ văn:   9.00   Lịch sử:   7.75   Địa lí:   7.50   GDCD:   7.50   KHXH: 7.58   Tiếng Anh:   9.20   
+01000303,Toán:   6.00   Ngữ văn:   8.25   Lịch sử:   5.00   Địa lí:   7.00   GDCD:   8.50   KHXH: 6.83   Tiếng Anh:   8.20   
+01000304,Toán:   8.00   Ngữ văn:   9.00   Lịch sử:   6.75   Địa lí:   7.00   GDCD:   7.75   KHXH: 7.17   Tiếng Anh:   7.00   
+01000305,Toán:   8.00   Ngữ văn:   8.00   Vật lí:   8.25   Hóa học:   5.50   Sinh học:   6.75   KHTN: 6.83   Tiếng Anh:   9.00   
+01000306,Toán:   8.80   Ngữ văn:   9.00   Lịch sử:   6.00   Địa lí:   6.75   GDCD:   9.75   KHXH: 7.5   Tiếng Anh:   8.00   
+01000307,Toán:   8.40   Ngữ văn:   8.00   Lịch sử:   5.50   Địa lí:   6.00   GDCD:   8.50   KHXH: 6.67   Tiếng Anh:   7.60   
+01000308,Toán:   2.60   Ngữ văn:   7.50   Lịch sử:   4.75   Địa lí:   5.25   
+01000309,Toán:   8.20   Ngữ văn:   8.50   Vật lí:   7.50   Hóa học:   5.75   Sinh học:   4.50   KHTN: 5.92   Tiếng Anh:   8.40   
+01000310,Toán:   7.20   Ngữ văn:   9.00   Lịch sử:   5.75   Địa lí:   6.00   GDCD:   8.25   KHXH: 6.67   Tiếng Anh:   9.20   
+01000311,Toán:   7.60   Ngữ văn:   8.00   Lịch sử:   6.00   Địa lí:   5.75   GDCD:   8.25   KHXH: 6.67   Tiếng Anh:   6.80   
+01000312,Toán:   4.00   Ngữ văn:   8.00   Lịch sử:   5.25   Địa lí:   5.25   GDCD:   6.75   KHXH: 5.75   Tiếng Anh:   5.20   
+01000313,Toán:   8.60   Ngữ văn:   8.00   Vật lí:   3.00   Hóa học:   9.00   Sinh học:   4.50   KHTN: 5.5   Tiếng Anh:   8.40   
+01000314,Toán:   7.60   Ngữ văn:   5.00   Lịch sử:   7.75   Địa lí:   6.75   GDCD:   8.00   KHXH: 7.5   Tiếng Anh:   6.80   
+01000315,Toán:   7.60   Ngữ văn:   8.50   Lịch sử:   6.25   Địa lí:   7.00   GDCD:   9.00   KHXH: 7.42   Tiếng Anh:   7.60   
+01000316,Toán:   7.00   Ngữ văn:   8.75   Lịch sử:   5.25   Địa lí:   5.00   GDCD:   7.00   KHXH: 5.75   Tiếng Anh:   8.00   
+01000317,Toán:   8.60   Ngữ văn:   8.50   Lịch sử:   4.25   Địa lí:   3.25   GDCD:   7.75   KHXH: 5.08   Tiếng Anh:   8.20   
+01000318,Toán:   8.40   Ngữ văn:   8.50   Lịch sử:   7.00   Địa lí:   7.50   GDCD:   9.25   KHXH: 7.92   
+01000319,Toán:   7.00   Ngữ văn:   8.00   Lịch sử:   5.50   Địa lí:   6.50   GDCD:   8.25   KHXH: 6.75   Tiếng Anh:   5.40   
+01000320,Toán:   8.20   Ngữ văn:   8.50   Lịch sử:   7.00   Địa lí:   6.50   GDCD:   9.25   KHXH: 7.58   Tiếng Anh:   9.40   
+01000321,Toán:   4.60   Ngữ văn:   7.50   Lịch sử:   5.00   Địa lí:   4.75   GDCD:   7.50   KHXH: 5.75   Tiếng Anh:   2.80   
+01000322,Toán:   7.80   Ngữ văn:   8.50   Lịch sử:   6.75   Địa lí:   7.25   GDCD:   8.00   KHXH: 7.33   Tiếng Anh:   8.40   
+01000323,Toán:   4.60   Ngữ văn:   6.25   Lịch sử:   3.50   Địa lí:   5.50   
+01000324,Toán:   7.20   Ngữ văn:   9.00   Lịch sử:   6.25   Địa lí:   7.75   GDCD:   9.00   KHXH: 7.67   Tiếng Anh:   9.40   
+01000325,Toán:   8.00   Ngữ văn:   9.00   Lịch sử:   5.50   Địa lí:   5.75   GDCD:   8.75   KHXH: 6.67   Tiếng Anh:   7.00   
+01000326,Toán:   8.40   Ngữ văn:   8.00   Lịch sử:   3.50   Địa lí:   9.00   GDCD:   8.75   KHXH: 7.08   Tiếng Anh:   9.40   
+01000327,Toán:   6.40   Ngữ văn:   8.50   Lịch sử:   6.25   Địa lí:   6.25   GDCD:   8.00   KHXH: 6.83   Tiếng Anh:   8.20   
+01000328,Toán:   8.40   Ngữ văn:   7.25   Vật lí:   8.50   Hóa học:   7.75   Sinh học:   6.00   KHTN: 7.42   Tiếng Anh:   8.20   
+01000329,Toán:   7.20   Ngữ văn:   7.00   Vật lí:   6.50   Hóa học:   5.25   Sinh học:   6.25   KHTN: 6   Tiếng Anh:   8.60   
+01000330,Toán:   1.20   Ngữ văn:   5.75   Lịch sử:   6.25   Địa lí:   5.50   
+01000331,Toán:   8.00   Ngữ văn:   8.00   Vật lí:   6.75   Hóa học:   7.25   Sinh học:   7.75   KHTN: 7.25   Tiếng Anh:   9.40   
+01000332,Toán:   8.40   Ngữ văn:   8.25   Lịch sử:   6.00   Địa lí:   6.00   GDCD:   9.50   KHXH: 7.17   Tiếng Anh:   8.40   
+01000333,Ngữ văn:   8.25   Lịch sử:   8.75   Địa lí:   7.25   
+01000334,Toán:   7.00   Ngữ văn:   9.25   Lịch sử:   7.75   Địa lí:   7.75   GDCD:   9.75   KHXH: 8.42   Tiếng Anh:   8.60   
+01000335,Toán:   5.40   Ngữ văn:   6.50   Lịch sử:   7.75   Địa lí:   6.00   GDCD:   8.75   KHXH: 7.5   Tiếng Anh:   4.20   
+01000336,Ngữ văn:   7.25   Lịch sử:   8.25   Địa lí:   8.25   
+01000337,Ngữ văn:   4.50   Lịch sử:   5.25   Địa lí:   6.00   
+01000338,Toán:   5.80   Ngữ văn:   8.50   Lịch sử:   4.25   Địa lí:   4.75   Tiếng Nhật:   5.80   
+01000339,Toán:   7.60   Ngữ văn:   8.75   Lịch sử:   6.50   Địa lí:   6.00   GDCD:   7.25   KHXH: 6.58   Tiếng Anh:   8.80   
