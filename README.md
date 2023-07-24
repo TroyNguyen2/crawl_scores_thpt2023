@@ -6,8 +6,9 @@
 4. Download tesseract ocr at https://sourceforge.net/projects/tesseract-ocr-alt/files/
 5. run: python main.py
 
-#  I made this project to practice my programming Python by crawling the scores from the ministry of Education and training. The logic is simple:
-First I use pytesseract to connecting tesseract ( a pretrain AI framework that could parse text from image ) , then Selenium and webdriver to interact the website and parse data,
-finally save data by csv file. 
+#  I made this project to practice my programming Python by crawling the scores from the Ministry of Education and Training. The logic is simple:
+First I use pytesseract to connect tesseract ( a pre-train AI framework that could parse text from images). Selenium and Webdriver to interact with the website and parse data,
+and finally, save data by CSV file. This script could run until the host closes searching !!
 
-# I just only crawl 300 id for testing.
+One more reminder: you can go to the source code and change the code of the province that I've put on the path in main.py
+# I just only crawl 300 ids save in **crawl_thpt2023.csv** for testing.
