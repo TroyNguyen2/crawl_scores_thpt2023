@@ -1,8 +1,7 @@
 # crawl_scores_thpt2023
 
 1. pip install -r requirements.txt
-2. download the web driver suit
-3. with the chrome version at https://chromedriver.chromium.org/downloads
+2. download the web driver suit with the Chrome version at https://chromedriver.chromium.org/downloads
 4. Download tesseract ocr at https://sourceforge.net/projects/tesseract-ocr-alt/files/
 5. run: python main.py
 
